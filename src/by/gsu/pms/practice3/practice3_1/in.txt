@@ -1,0 +1,6 @@
+Purchase Purchase 1 2
+DiscountWithRequirements Purchase 0 1 10 5
+Discount Purchase 3 3 0.1
+Discount Purchase 4 6 0.2
+DiscountWithRequirements Purchase 5 7 0.3 10
+DiscountWithRequirements Purchase 6 6 8.4 5
