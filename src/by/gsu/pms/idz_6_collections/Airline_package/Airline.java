@@ -1,4 +1,4 @@
-package idz_6_collections.Airline_package;
+package by.gsu.pms.idz_6_collections.Airline_package;
 
 import java.io.Serializable;
 import java.util.ArrayList;

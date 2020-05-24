@@ -1,10 +1,10 @@
-package idz_6_collections;
+package by.gsu.pms.idz_6_collections;
 
 
-import idz_6_collections.Airline_package.Airline;
-import idz_6_collections.Airline_package.Weekday;
-import idz_6_collections.Serialisation.Deserialization;
-import idz_6_collections.Serialisation.Serialization;
+import by.gsu.pms.idz_6_collections.Airline_package.Airline;
+import by.gsu.pms.idz_6_collections.Airline_package.Weekday;
+import by.gsu.pms.idz_6_collections.Serialisation.Deserialization;
+import by.gsu.pms.idz_6_collections.Serialisation.Serialization;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

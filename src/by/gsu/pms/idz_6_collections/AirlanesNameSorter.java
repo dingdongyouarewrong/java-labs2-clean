@@ -1,6 +1,6 @@
-package idz_6_collections;
+package by.gsu.pms.idz_6_collections;
 
-import idz_6_collections.Airline_package.Airline;
+import by.gsu.pms.idz_6_collections.Airline_package.Airline;
 
 import java.util.Comparator;
 

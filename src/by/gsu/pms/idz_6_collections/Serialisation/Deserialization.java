@@ -1,7 +1,7 @@
-package idz_6_collections.Serialisation;
+package by.gsu.pms.idz_6_collections.Serialisation;
 
 
-import idz_6_collections.Airline_package.Airline;
+import by.gsu.pms.idz_6_collections.Airline_package.Airline;
 
 import java.io.FileInputStream;
 import java.io.ObjectInputStream;
